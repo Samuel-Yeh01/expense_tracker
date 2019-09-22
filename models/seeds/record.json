@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "name": "買咖啡",
+      "category": "日常消費",
+      "amount": "50",
+      "date": "2019-09-20"
+    },
+    {
+      "name": "買Red Bull",
+      "category": "日常消費",
+      "amount": "100",
+      "date": "2019-09-21"
+    },
+    {
+      "name": "買可樂",
+      "category": "日常消費",
+      "amount": "50",
+      "date": "2019-09-22"
+    },
+    {
+      "name": "買雪碧",
+      "category": "日常消費",
+      "amount": "100",
+      "date": "2019-09-23"
+    },
+    {
+      "name": "買珍奶",
+      "category": "日常消費",
+      "amount": "40",
+      "date": "2019-07-24"
+    },
+    {
+      "name": "買雞排",
+      "category": "日常消費",
+      "amount": "60",
+      "date": "2019-07-25"
+    }
+  ]
+}
